@@ -1,0 +1,1 @@
+Added AI-Mediated Pair Programming project. Main Projects thumbnail: Sphero robot photo (2281(1).JPG). Four research photos on project page. No funding section. Publications links to a focused Google Scholar search pending verified bibliographic entries. No dissertation reference.
