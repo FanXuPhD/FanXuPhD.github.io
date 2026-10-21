@@ -1,0 +1,1 @@
+Updated Embodied AI project team to a five-person portrait grid. Photos are linked from their institutional/personal pages; Fan Xu portrait is local. Upload project-embodied-ai.html and style.css to GitHub. Existing assets/fan-xu-portrait.jpg must remain present. Online images require those external image URLs to remain accessible.

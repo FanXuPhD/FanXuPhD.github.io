@@ -16,3 +16,25 @@ footer .footer-icon:focus-visible{outline:2px solid #333;outline-offset:3px;}
 
 /* Shift portrait crop to center the face within the narrow column. */
 .portrait-photo{object-position:56% center;}
+
+/* Project partner logos and verified collaborator profiles */
+.funding-logo-link,.partner-logo-link{display:inline-flex;align-items:center;justify-content:center;max-width:200px;text-decoration:none}
+.partner-logo{display:block;width:150px;max-width:100%;height:auto;max-height:110px;object-fit:contain}
+.explora-logo{width:155px;max-height:130px}
+.collaborators-detail{margin:36px 0 30px}.collaborators-detail h2{font-size:1.05rem;font-weight:500;margin-bottom:14px}
+.collaborator-list{padding-left:20px;line-height:1.9}.collaborators-detail a{color:inherit;text-underline-offset:3px}
+
+/* Embodied AI Co-PI portrait grid */
+.copi-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:30px 22px;margin-top:24px}
+.copi-card{display:flex;flex-direction:column;align-items:flex-start;color:inherit;text-decoration:none;min-width:0}
+.copi-card img{width:100%;aspect-ratio:1/1;object-fit:cover;object-position:center 25%;background:#f0f0ee;filter:grayscale(12%);margin-bottom:12px}
+.copi-card strong{font-size:14px;font-weight:600;line-height:1.4}
+.copi-card span{font-size:12px;color:#666;line-height:1.5;margin-top:3px}
+.copi-card small{font-size:11px;color:#888;margin-top:4px}
+.copi-card:hover strong{text-decoration:underline;text-underline-offset:3px}
+@media(max-width:680px){.copi-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:24px 16px}}
+
+/* Consistent people cards across all project pages */
+.team-photo-fallback {width:100%;aspect-ratio:1/1;background:#f1f1f1;color:#888;display:flex;align-items:center;justify-content:center;font-size:1.7rem;letter-spacing:.08em;font-weight:500;border-radius:2px;}
+.copi-card img {aspect-ratio:1/1;object-fit:cover;width:100%;display:block;}
+.copi-card small {display:none;}

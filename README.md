@@ -1,4 +1,4 @@
-# Fan Xu — Academic Portfolio
+# Fan Xu — Minimal Academic Portfolio (Project Detail Edition)
 
 - About: index.html — no Selected Publications section.
 - Projects: projects.html — each card links to its own `project-*.html` page.
@@ -23,3 +23,9 @@ Contact uses FormSubmit (https://formsubmit.co/) to forward submissions to xufan
 
 ## Project order
 NSF Noyce Supplement; Future Ready Educators; Vibe Coding; PROOF-AI; Embodied AI Infrastructure; Advancing AI Literacy for Families and Schools in Ohio. The K-12 AI Literacy detail page remains in the bundle but is not listed in the selected-projects grid.
+
+
+## Team update (October 2026)
+- NSF TODOS: added parent-award Co-PIs Tito Busani, Laura Crossey, Shawn Secatero, plus Victor Law (evaluator for AI literacy supplement), and Fan Xu (Co-I for supplement).
+- FRE: added Project Committee Victor Law, Karla Kingsley, Jesus (Jacob) Villa, Deena Gould (UNM), Jiarui Xie (Ohio State).
+- The parent-award Co-PI roles are distinguished from the supplemental award; check any role updates against your official grant documents.
