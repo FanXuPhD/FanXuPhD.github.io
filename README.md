@@ -1,4 +1,4 @@
-# Fan Xu — Minimal Academic Portfolio (Project Detail Edition)
+# Fan Xu — Academic Portfolio
 
 - About: index.html — no Selected Publications section.
 - Projects: projects.html — each card links to its own `project-*.html` page.
