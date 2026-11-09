@@ -191,3 +191,10 @@ body:has(.nsf-noyce-logo) .sponsor-logos .partner-logo{max-width:135px!important
 
 /* Remove divider above sponsor logos */
 .sponsor-logos{border-top:none!important;padding-top:0!important;}
+
+/* Student advising page */
+.advising-group{margin-top:30px;}
+.advising-group h2{font-size:13px;font-weight:600;color:#4b4b4b;margin:0 0 6px;}
+.advising-item{margin:8px 0;}
+.advising-item strong{display:block;font-size:13px;color:var(--ink);font-weight:600;}
+.advising-item span{display:block;}
